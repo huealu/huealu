@@ -6,7 +6,7 @@
 <li> 🌱 I’m currently an AI learner and I'm working on AI application on many sectors. </li>
 <li> 💞️ I’m currently with Conrad Blucher Institute - TAMUCC on developing AI application for environmental science </li>
 <li> 📫 I'm best reached via 
-<a href="https://www.linkedin.com/in/huehongdinh/" style="color: blue;"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/huehongdinh/" style="color: blue;"> LinkedIn </a> or you can read more about me in <a href="huealu.github.io" style="color: blue">My Website</a>
 </li>
 </ul>
 <!---
